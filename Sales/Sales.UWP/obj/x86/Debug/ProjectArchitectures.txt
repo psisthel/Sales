@@ -1,0 +1,1 @@
+E:\Projects\Sales\Sales\Sales.UWP\Sales.UWP.csproj;x86
